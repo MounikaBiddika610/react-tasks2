@@ -1,0 +1,59 @@
+{
+	"details":{
+		"name":"B.Mounika",
+		"image":"mouni.jpg",
+		"email":"mounibuddika@gmail.com",
+		"Rollno":"17341A0518",
+		"Branch":"Computer Science",
+		"DOB":"22/07/2000",
+		"number":"939802307"
+		
+	},
+	"careerobjective":{
+		"info":"To become software developer"
+	},
+	"educationalqualification":[
+	
+
+		{
+   
+			"institute":"GMR Institute Of Technology",
+			"degree":"B.tech",
+			"passoutyear":"2021",
+			"percentage":"86%"
+		},
+		{
+			"institute":"A.P.S.W.R.S",
+			"degree":"Intermediate",
+			"passoutyear":"2017",
+			"percentage":"93%"
+		},
+		{
+			"institute":"A.P.S.W.R.S",
+			"degree":"SSC",
+			"passoutyear":"2015",
+			"percentage":"90%"
+		}
+
+	],
+
+	"techinicalskills":[
+		{
+		"title":"programming langauges",
+		"info":["c,java,python,"]
+	},
+		{
+		"title":"Favourite Subjects",
+		"info":["DBMS,OS,CD,TOC"]
+	},
+		{
+		"title":"Softwares Known",
+		"info":["Masm,Rational rose,visualstudio"]
+	},
+	{
+		"title":"Communication Languages",
+		"info":["Englsh,Telugu"]
+	}
+
+]
+}
